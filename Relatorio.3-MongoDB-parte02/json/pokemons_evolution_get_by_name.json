@@ -1,0 +1,18 @@
+[
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b18"
+        },
+        "name": "Charmander",
+        "next_evolution": [
+            {
+                "num": "005",
+                "name": "Charmeleon"
+            },
+            {
+                "num": "006",
+                "name": "Charizard"
+            }
+        ]
+    }
+]

@@ -1,0 +1,569 @@
+[
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b28"
+        },
+        "id": 20,
+        "name": "Raticate"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b29"
+        },
+        "id": 21,
+        "name": "Spearow"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b2a"
+        },
+        "id": 22,
+        "name": "Fearow"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b2b"
+        },
+        "id": 23,
+        "name": "Ekans"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b2c"
+        },
+        "id": 24,
+        "name": "Arbok"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b2d"
+        },
+        "id": 25,
+        "name": "Pikachu"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b2e"
+        },
+        "id": 26,
+        "name": "Raichu"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b2f"
+        },
+        "id": 27,
+        "name": "Sandshrew"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b30"
+        },
+        "id": 28,
+        "name": "Sandslash"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b31"
+        },
+        "id": 29,
+        "name": "Nidoran \u00e2\u2122\u20ac (Female)"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b32"
+        },
+        "id": 30,
+        "name": "Nidorina"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b33"
+        },
+        "id": 31,
+        "name": "Nidoqueen"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b34"
+        },
+        "id": 32,
+        "name": "Nidoran \u00e2\u2122\u201a (Male)"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b35"
+        },
+        "id": 33,
+        "name": "Nidorino"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b36"
+        },
+        "id": 34,
+        "name": "Nidoking"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b37"
+        },
+        "id": 35,
+        "name": "Clefairy"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b38"
+        },
+        "id": 36,
+        "name": "Clefable"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b39"
+        },
+        "id": 37,
+        "name": "Vulpix"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b3a"
+        },
+        "id": 38,
+        "name": "Ninetales"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b3b"
+        },
+        "id": 39,
+        "name": "Jigglypuff"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b3c"
+        },
+        "id": 40,
+        "name": "Wigglytuff"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b3d"
+        },
+        "id": 41,
+        "name": "Zubat"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b3e"
+        },
+        "id": 42,
+        "name": "Golbat"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b3f"
+        },
+        "id": 43,
+        "name": "Oddish"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b40"
+        },
+        "id": 44,
+        "name": "Gloom"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b41"
+        },
+        "id": 45,
+        "name": "Vileplume"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b42"
+        },
+        "id": 46,
+        "name": "Paras"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b43"
+        },
+        "id": 47,
+        "name": "Parasect"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b44"
+        },
+        "id": 48,
+        "name": "Venonat"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b45"
+        },
+        "id": 49,
+        "name": "Venomoth"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b46"
+        },
+        "id": 50,
+        "name": "Diglett"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b47"
+        },
+        "id": 51,
+        "name": "Dugtrio"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b48"
+        },
+        "id": 52,
+        "name": "Meowth"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b49"
+        },
+        "id": 53,
+        "name": "Persian"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b4a"
+        },
+        "id": 54,
+        "name": "Psyduck"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b4b"
+        },
+        "id": 55,
+        "name": "Golduck"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b4c"
+        },
+        "id": 56,
+        "name": "Mankey"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b4d"
+        },
+        "id": 57,
+        "name": "Primeape"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b4e"
+        },
+        "id": 58,
+        "name": "Growlithe"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b4f"
+        },
+        "id": 59,
+        "name": "Arcanine"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b50"
+        },
+        "id": 60,
+        "name": "Poliwag"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b51"
+        },
+        "id": 61,
+        "name": "Poliwhirl"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b52"
+        },
+        "id": 62,
+        "name": "Poliwrath"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b53"
+        },
+        "id": 63,
+        "name": "Abra"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b54"
+        },
+        "id": 64,
+        "name": "Kadabra"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b55"
+        },
+        "id": 65,
+        "name": "Alakazam"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b56"
+        },
+        "id": 66,
+        "name": "Machop"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b57"
+        },
+        "id": 67,
+        "name": "Machoke"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b58"
+        },
+        "id": 68,
+        "name": "Machamp"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b59"
+        },
+        "id": 69,
+        "name": "Bellsprout"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b5a"
+        },
+        "id": 70,
+        "name": "Weepinbell"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b5b"
+        },
+        "id": 71,
+        "name": "Victreebel"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b5c"
+        },
+        "id": 72,
+        "name": "Tentacool"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b5d"
+        },
+        "id": 73,
+        "name": "Tentacruel"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b5e"
+        },
+        "id": 74,
+        "name": "Geodude"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b5f"
+        },
+        "id": 75,
+        "name": "Graveler"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b60"
+        },
+        "id": 76,
+        "name": "Golem"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b61"
+        },
+        "id": 77,
+        "name": "Ponyta"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b62"
+        },
+        "id": 78,
+        "name": "Rapidash"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b63"
+        },
+        "id": 79,
+        "name": "Slowpoke"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b64"
+        },
+        "id": 80,
+        "name": "Slowbro"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b65"
+        },
+        "id": 81,
+        "name": "Magnemite"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b66"
+        },
+        "id": 82,
+        "name": "Magneton"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b67"
+        },
+        "id": 83,
+        "name": "Farfetch'd"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b68"
+        },
+        "id": 84,
+        "name": "Doduo"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b69"
+        },
+        "id": 85,
+        "name": "Dodrio"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b6a"
+        },
+        "id": 86,
+        "name": "Seel"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b6b"
+        },
+        "id": 87,
+        "name": "Dewgong"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b6c"
+        },
+        "id": 88,
+        "name": "Grimer"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b6d"
+        },
+        "id": 89,
+        "name": "Muk"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b6e"
+        },
+        "id": 90,
+        "name": "Shellder"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b6f"
+        },
+        "id": 91,
+        "name": "Cloyster"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b70"
+        },
+        "id": 92,
+        "name": "Gastly"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b71"
+        },
+        "id": 93,
+        "name": "Haunter"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b72"
+        },
+        "id": 94,
+        "name": "Gengar"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b73"
+        },
+        "id": 95,
+        "name": "Onix"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b74"
+        },
+        "id": 96,
+        "name": "Drowzee"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b75"
+        },
+        "id": 97,
+        "name": "Hypno"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b76"
+        },
+        "id": 98,
+        "name": "Krabby"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b77"
+        },
+        "id": 99,
+        "name": "Kingler"
+    },
+    {
+        "_id": {
+            "$oid": "67cc2bf97868d5e6987b7b78"
+        },
+        "id": 100,
+        "name": "Voltorb"
+    }
+]
