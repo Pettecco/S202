@@ -1,0 +1,74 @@
+[
+  {
+    "_id": {
+      "$oid": "67cc21f04736efd3da5f119d"
+    },
+    "professor": "Jonas",
+    "assunto": "Banco de Dados 2",
+    "alunos": [
+      {
+        "nome": "Petterson"
+      },
+      {
+        "nome": "Murilo"
+      },
+      {
+        "nome": "Lucas"
+      },
+      {
+        "nome": "Virginia"
+      },
+      {
+        "nome": "Pedro"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67cc21f04736efd3da5f119e"
+    },
+    "professor": "Chris Lima",
+    "assunto": "Programação Orientada a Objetos",
+    "alunos": [
+      {
+        "nome": "Petterson"
+      },
+      {
+        "nome": "Bruno"
+      },
+      {
+        "nome": "Ana"
+      },
+      {
+        "nome": "João Paulo"
+      },
+      {
+        "nome": "Vinicius"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67cc21f04736efd3da5f119f"
+    },
+    "professor": "Marcelo Cysneiros",
+    "assunto": "Computação Gráfica e Multimídia",
+    "alunos": [
+      {
+        "nome": "Petterson"
+      },
+      {
+        "nome": "Gustavo Dalboni"
+      },
+      {
+        "nome": "Vitor"
+      },
+      {
+        "nome": "Lara"
+      },
+      {
+        "nome": "Beatriz"
+      }
+    ]
+  }
+]
