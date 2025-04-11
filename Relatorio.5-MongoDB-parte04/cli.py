@@ -56,7 +56,7 @@ class LibraryCLI(SimpleCLI):
         self.book_model.delete_book_by_id(id)
         
     def run(self):
-        print("Welcome to the Bookstore CLI!")
+        print("Welcome to the Library CLI!")
         print("Available commands: create, read, update, delete, quit")
         super().run()
         
