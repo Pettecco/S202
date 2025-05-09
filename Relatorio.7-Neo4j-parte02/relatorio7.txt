@@ -1,0 +1,57 @@
+Querys com aggregating Functions:
+
+1. MATCH(n:Universitario) RETURN COUNT(*);
+2. MATCH (c:City)
+   WHERE c.name STARTS WITH 'S'
+   RETURN COUNT(c) AS num_cidades_com_S
+3. MATCH (a:Airport)-[:IN_CITY]->(c:City)
+   WITH c, COUNT(a) AS aeroportos_por_cidade
+   RETURN AVG(aeroportos_por_cidade) AS media_aeroportos_por_cidade
+4. MATCH (a:Airport)-[:HAS_ROUTE]->(dest:Airport)
+   WITH a, COUNT(dest) AS total_rotas
+   RETURN MAX(total_rotas) AS max_rotas_por_aeroporto
+5. MATCH (a:Airport)-[:IN_COUNTRY]->(c:Country)
+   WITH c, COUNT(a) AS total_aeroportos
+   RETURN MIN(total_aeroportos) AS menor_qtd_aeroportos_em_um_pais
+
+Querys com Mathematical Functions
+
+1. MATCH (a:Airport)-[:IN_CITY]->(c:City)
+   WITH c, COUNT(a) AS total_aeroportos
+   RETURN round(AVG(total_aeroportos)) AS media_arredondada_aeroportos_por_cidade
+2. MATCH (a:Airport)-[:HAS_ROUTE]->(dest:Airport)
+   WITH a, COUNT(dest) AS conexoes
+   RETURN log(AVG(conexoes)) AS log_media_conexoes
+3. MATCH (a:Airport)-[:IN_COUNTRY]->(c:Country)
+   WITH c, COUNT(a) AS total_aeroportos
+   WITH AVG(total_aeroportos) AS media
+   RETURN floor(media) AS piso, ceil(media) AS teto
+4. MATCH (a:Airport)-[:HAS_ROUTE]->(dest:Airport)
+   WITH a, COUNT(dest) AS rotas
+   RETURN exp(AVG(rotas)) AS exponencial_media_conexoes
+5. MATCH (a:Airport)
+   WITH COUNT(a) AS total
+   RETURN total, total % 2 AS resto_divisao_por_2
+
+Querys com String Functions
+
+1. MATCH (a:Airport)
+   RETURN a.iata AS codigo_original, toLower(a.iata) AS codigo_minusculo
+   LIMIT 10
+2. MATCH (a:Airport)
+   WHERE a.icao = toUpper(a.icao)
+   RETURN a.icao AS icao_maiusculo
+   LIMIT 10
+3. MATCH (a:Airport)
+   WHERE a.city ENDS WITH "on"
+   RETURN a.city AS cidade_com_on
+4. MATCH (a:Airport)
+   RETURN a.descr AS descricao, substring(a.descr, 0, 3) AS prefixo_descr
+   LIMIT 10
+5. MATCH (a:Airport)
+   RETURN a.descr AS descricao_original, split(a.descr, " ") AS palavras_da_descricao
+   LIMIT 10
+
+
+
+
